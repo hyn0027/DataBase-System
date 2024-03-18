@@ -1,0 +1,10 @@
+filesystem/
+build/
+bin/
+lcoverage/
+coverage.log
+Testing/
+data/
+.vscode/
+
+test_file_data

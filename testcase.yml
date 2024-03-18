@@ -1,0 +1,18 @@
+compile:
+  commands: sh build.sh
+
+run:
+  commands: ["./main"]
+  flags:
+    - system
+    - query
+    - join
+    - pk
+    - comb
+    - fk
+    - mj
+    - data
+    - index
+    - unique
+    - 'null'
+
